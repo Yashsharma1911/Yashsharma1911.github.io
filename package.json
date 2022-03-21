@@ -1,4 +1,5 @@
 {
+  "homepage": "http://yashsharma1911.github.io/Yashsharma1911.github.io",
   "name": "yash",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
@@ -35,5 +38,7 @@
   },
   "author": "yash",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
