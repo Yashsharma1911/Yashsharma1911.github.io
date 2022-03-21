@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Yash Sharma",
+    "occupation": "Software Developer && Instructor ",
+    "description": "software and web Developer by Day, Freelancer by Night. #CSengineer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Yash, I'm a Software and Web Developer. Currently I'm learner while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "yashsharma2572@gmail.com",
+    "phone": "+91 9691808377",
+    "address": {
+      "street": "Mahuar Colony ,shivpuri road",
+      "city": "karera",
+      "state": "India",
+      "zip": "ABC 123"
+    },
+    "website": "http://yashsharma.netlify.app",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100037058570375",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yash-sharma-4276b61b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yashsharma_f/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Yashsharma1911",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "ITM University Gwalior",
+        "degree": "Bachelor of Technology (Computer Science)",
+        "graduated": "September 2020 - present",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coding tutor",
+        "title": "Teach C++, HTML5",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "97%"
+      },
+      {
+        "name": "java",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fsociti",
+        "category": "Fsociti built with HTML5 (CSS) only",
+        "image": "fsocieti.jpeg",
+        "url": "https://fsocieti.netlify.app"
+      },
+      {
+        "title": "Resume Website",
+        "category": "Resume Website built with (ExpressJS, ReactJS, NodeJS, JASON)",
+        "image": "portfolioweb.jpeg",
+        "url": "https://yashsharma.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You have an potential to do anything good in your life and So much humble person you are",
+        "user": "Umar Khan"
+      },
+      {
+        "text": "That Yash Sharma must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Prashnat... microsoft"
+      }
+    ]
+  }
+}
